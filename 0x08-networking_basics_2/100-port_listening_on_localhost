@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# lisenting or port 98 for 127.0.0.1.
+
+nc -l localhost 98

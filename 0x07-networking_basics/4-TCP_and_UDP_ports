@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# to dispaly all the port and sockest that are lisenting
+
+netstat -l --program
