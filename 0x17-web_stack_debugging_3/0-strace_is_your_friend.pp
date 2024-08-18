@@ -1,4 +1,4 @@
-# to fix a the error 500 when a http get request is recieved
+# Fix 500 error when a get method is requested
 
 exec {'replace':
   provider => shell,
