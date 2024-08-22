@@ -1,4 +1,4 @@
-# Fix problem of high amount of requests
+# fix the large amount of req
 
 exec {'replace':
   provider => shell,
